@@ -1,5 +1,16 @@
+#Frontend
 node_modules/
 build/
+
+#Backend
 target/
+
+#Logs
 *.log
+
+#IDE
+.idea/
+.vscode/
+
+#Sistema
 .DS_Store

@@ -96,7 +96,7 @@ render(){
 
                         <div className="btn-zeroPeca" >
                                 <button className="botao" type="submit">
-                                    Enviar
+                                    Salvar
                                 </button> 
                             </div>
                     </form>
