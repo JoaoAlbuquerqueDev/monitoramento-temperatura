@@ -1,0 +1,14 @@
+.containerF{
+    background-color: rgba(30,26,26,0.25);
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+    color: #000;
+
+    margin-top: 30px;
+
+    bottom: 0;
+    position:relative;
+    width: 100%;
+}

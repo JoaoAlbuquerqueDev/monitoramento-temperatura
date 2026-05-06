@@ -1,0 +1,22 @@
+.botao{
+    background-color: #363636;
+    color: white;
+    padding: 14px 25px;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 0.5%;
+    border-style: none;
+  }
+  
+  .botao {
+    transition-duration: 0.3s;
+  }
+  
+.botao:hover {
+    background-color: #808080; /* Green */
+    color: white;
+  }
+
+  

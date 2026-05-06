@@ -1,0 +1,30 @@
+.containerH{
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+    background-color: rgba(30,26,26,0.25);
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.logo{
+    flex: 1;
+    
+}
+
+.img{
+    width: 200px;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+    margin-left: 20px;
+    
+}
+
+
+

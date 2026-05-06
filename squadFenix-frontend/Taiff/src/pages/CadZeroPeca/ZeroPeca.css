@@ -1,0 +1,17 @@
+.card-post{
+  background-color: darkgrey;
+  border-radius: 15px;
+}
+
+.botao{
+  background-color: #363636;
+  color: white;
+  padding: 14px 25px;
+  border-radius: 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.botao {
+  background-color: #4F4F4F;
+}

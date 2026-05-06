@@ -1,0 +1,39 @@
+.inicio{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    margin: 0 auto 0 auto;
+    margin-top: 60px;
+    background-color: darkgray;
+    margin-bottom: 9%;
+}
+
+#img{
+   align-items: center;
+   margin-left: 45px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
+
+.link{
+    font-family: Heebo;
+    font-weight: 800;
+    font-size: 1.3rem;
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    background-color: #4169E1;
+    border-radius: 15px 50px;
+    text-align: center;
+    margin: 5px 20px 10px 20px ; 
+}
+
+.link:hover{
+    background-color: #6495ED;
+    color:#fff
+}
+
+

@@ -1,0 +1,1 @@
+INSERT INTO produto(nome, modelo)VALUES('secador', '2000');
