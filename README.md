@@ -116,7 +116,7 @@ Aplicação roda em:
 ![Tela Inicial](images/telaInicial.png)
 
 ### 2. Cadastre a posição inicial do secador
-![Cadastro Inicial](images/cadZeropeca.png)
+![Cadastro Inicial](images/cadZeroPeca.png)
 
 ### 3. Cadastre o produto e a data do teste
 ![Cadastro do Teste](images/cadTeste.png)
